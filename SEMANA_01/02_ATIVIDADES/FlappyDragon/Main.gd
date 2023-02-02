@@ -6,7 +6,7 @@ var status = 1
 # Score do jogador
 var vscore = 0
 
-# Velocidade que o fundo se mexe
+# Velocidade que o fundo se mexe/velocidade vertical do dragão
 var x = 3 
 
 # Gravidade
